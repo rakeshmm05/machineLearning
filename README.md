@@ -6,6 +6,7 @@ A machine learning model to predict house prices using features like location, s
 - Data preprocessing and feature engineering
 - Model training and evaluation using regression algorithms
 - `.pkl` file for easy deployment
+- R2 Score: 0.81739
 
 📦 **Tech Stack:**
 - Python, NumPy, pandas
